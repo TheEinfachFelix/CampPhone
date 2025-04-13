@@ -1,0 +1,6 @@
+[submodule "src/CampPhoneDemo/lib/Sim800L-Arduino-Library-revised"]
+	path = src/CampPhoneDemo/lib/Sim800L-Arduino-Library-revised
+	url = https://github.com/vittorioexp/Sim800L-Arduino-Library-revised
+[submodule "src/CampPhoneDemo/src/Sim800L-Arduino-Library-revised"]
+	path = src/CampPhoneDemo/src/Sim800L-Arduino-Library-revised
+	url = https://github.com/vittorioexp/Sim800L-Arduino-Library-revised
