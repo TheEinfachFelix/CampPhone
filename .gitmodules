@@ -1,3 +1,3 @@
 [submodule "lib/Sim800L_Lib"]
-	path = lib/Sim800L_Lib
+	path = src/Sim800L_Lib
 	url = https://github.com/TheEinfachFelix/Sim800L_Lib
