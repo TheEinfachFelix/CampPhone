@@ -8,7 +8,6 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "h:/GitHub/CampPhone/components",
                 "h:/GitHub/CampPhone/include",
                 "h:/GitHub/CampPhone/src",
                 "C:/Users/felix/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/newlib/platform_include",
