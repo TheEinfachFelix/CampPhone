@@ -588,6 +588,10 @@
     [
       "036f5ef9-4458-4c73-a73b-6d33cbbb9101",
       "gsm"
+    ],
+    [
+      "d51c1204-fd13-4543-86b9-6e60ce0eb23b",
+      "eink Display"
     ]
   ],
   "text_variables": {}
