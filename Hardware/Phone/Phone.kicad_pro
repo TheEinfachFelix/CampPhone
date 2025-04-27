@@ -51,7 +51,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -170,7 +176,14 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.3,
+        0.5,
+        1.0,
+        1.5,
+        2.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -197,7 +210,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -592,6 +610,26 @@
     [
       "d51c1204-fd13-4543-86b9-6e60ce0eb23b",
       "eink Display"
+    ],
+    [
+      "9c6d598a-1c2e-4564-8cf9-813e489906a5",
+      "BAT"
+    ],
+    [
+      "644bd567-172d-43e5-bd18-deb3c3728e74",
+      "Spannungswandler 4V"
+    ],
+    [
+      "21271ec7-d79d-46a5-828d-bcb02cd0a09d",
+      "BoostConverter"
+    ],
+    [
+      "de8b3ce9-85ff-45e1-b78b-03c3cbc2b505",
+      "USBC"
+    ],
+    [
+      "aaed7172-61e2-4d48-8f52-d1ed0bb53655",
+      "USBC1"
     ]
   ],
   "text_variables": {}

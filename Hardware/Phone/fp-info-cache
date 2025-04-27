@@ -1,4 +1,4 @@
-23156280128089517
+23165008137489571
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55664,6 +55664,20 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 Felix
+BAT-TH_L77.0-W39.9_BH-18650-A1BJ021
+
+
+0
+4
+4
+Felix
+ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP
+
+
+0
+9
+9
+Felix
 FPC-SMD_24P-P0.50_AFC01-S24FCA-00
 
 
@@ -55692,6 +55706,13 @@ IND-SMD_L4.0-W4.0 MNR4012
 2
 2
 Felix
+IND-SMD_L10.6-W10.2 2A 11x10mm
+
+
+0
+2
+2
+Felix
 MIC-TH_BD4.0-P1.40_KEEG1542PBL-A
 
 
@@ -55705,6 +55726,20 @@ SOD-882_L1.0-W0.6-BI
 0
 2
 2
+Felix
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR FM2113
+
+
+0
+6
+6
+Felix
+TO-252-5_L6.6-W5.8-P1.27-TL XL6008E1
+
+
+0
+6
+6
 Felix_GPS
 GPSM-SMD_ATGM336H-TR
 
