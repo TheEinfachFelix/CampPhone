@@ -748,16 +748,16 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U?"
-				(at 0 0 0)
+			(property "Reference" "U11"
+				(at 0 -8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "TP4056 "
+				(at 0 -10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2234,7 +2234,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "BH-18650-A1BJ021 "
 			(at 104.14 66.04 0)
 			(effects
 				(font
@@ -3342,7 +3342,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "TP4056 "
 			(at 142.24 118.11 0)
 			(effects
 				(font

@@ -586,16 +586,16 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -0.254 35.306 0)
+			(property "Reference" "U8"
+				(at 0 40.64 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" ""
-				(at 15.24 2.54 0)
+			(property "Value" "AFC01-S24FCA-00  & AFC01-S06FCA-00 & GDEY027T91-T01"
+				(at 0 39.37 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3169,7 +3169,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "MBR0530"
 			(at 81.026 71.12 0)
 			(effects
 				(font
@@ -3255,7 +3255,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "MBR0530"
 			(at 57.658 81.534 90)
 			(effects
 				(font
@@ -4632,7 +4632,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "AFC01-S24FCA-00  & AFC01-S06FCA-00 & GDEY027T91-T01"
 			(at 151.13 57.15 0)
 			(effects
 				(font
@@ -4864,7 +4864,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "MBR0530"
 			(at 80.772 93.218 0)
 			(effects
 				(font

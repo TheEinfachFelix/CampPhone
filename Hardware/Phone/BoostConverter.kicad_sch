@@ -608,28 +608,31 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U?"
-				(at 0 0 0)
+			(property "Reference" "U10"
+				(at -1.524 -14.986 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "XL6008E1"
+				(at 0 16.51 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Footprint" "Felix:TO-252-5_L6.6-W5.8-P1.27-TL XL6008E1"
-				(at 0 0 0)
+				(at 1.016 -14.986 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Datasheet" ""
@@ -1515,7 +1518,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "XL6008E1"
 			(at 135.89 109.22 90)
 			(effects
 				(font
